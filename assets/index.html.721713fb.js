@@ -1,0 +1,1 @@
+import{_ as a}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as n,c as t,a as l}from"./app.07e13da4.js";const o={},r=["src"];function s(e,c){return n(),t("div",null,[l("img",{src:e.$withBase("/media/wallpanel/wallpanel.png#center"),alt:"VuePress Logo"},null,8,r)])}const m=a(o,[["render",s],["__file","index.html.vue"]]);export{m as default};
